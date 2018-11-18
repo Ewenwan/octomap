@@ -91,6 +91,10 @@ A list of changes is available in the [octomap changelog](octomap/CHANGELOG.txt)
 	  cd build
 	  cmake ..
 	  make
+	  
+	  make 出错 可能是版本冲突， 与之前ros安装的版本不符合
+	  一开始装的1.9 编译不通过
+	  后 改成装 1.8 编译通过
 
 	事实上，octomap的代码主要含两个模块：本身的octomap和可视化工具octovis。
 	octovis依赖于qt4和qglviewer，所以如果你没有装这两个依赖，
