@@ -1,6 +1,9 @@
 OctoMap - An Efficient Probabilistic 3D Mapping Framework Based on Octrees.
 ===========================================================================
 
+[论文](http://www2.informatik.uni-freiburg.de/~hornunga/pub/hornung13auro.pdf)
+
+
 http://octomap.github.io
 
 Originally developed by Kai M. Wurm and Armin Hornung, University of Freiburg, Copyright (C) 2009-2014.
